@@ -1,5 +1,5 @@
 # Hi, I'm Jacob Daniel R
-**Business Intelligence & Data Analytics | SQL • Power BI • Python**
+### Business Intelligence & Data Analytics | SQL • Power BI • Python###
 
 I build data-driven analytics solutions that transform business problems into actionable insights. My work focuses on end-to-end analytics workflows — from data extraction and cleaning to KPI design, analysis, and interactive dashboards that support decision-making.
 
