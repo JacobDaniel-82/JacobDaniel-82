@@ -1,48 +1,61 @@
 # Hi, I'm Jacob Daniel R
-### Business Intelligence & Data Analytics | SQL • Power BI • Python
+Data Engineer | SQL • Python • PySpark • Cloud Data Platforms
 
-I build data-driven analytics solutions that transform business problems into actionable insights. My work focuses on end-to-end analytics workflows — from data extraction and cleaning to KPI design, analysis, and interactive dashboards that support decision-making.
-
----
-
-## 🎯 Expertise
-
-**Business Intelligence & Analytics**
-- End-to-end analytics workflows (SQL → Python → BI visualization)
-- KPI design, reporting, and performance analysis
-- Trend analysis and risk-focused analytics
-- Interactive dashboard development for stakeholder insights
-
-**Technical Skills**
-- SQL, Python (Pandas, NumPy)
-- Power BI, Tableau, data visualization
-- Data cleaning, transformation, and validation
-- AI-assisted analytics workflows (with validation)
+I build end-to-end data pipelines and modern data architectures that power analytics and decision-making. My work focuses on ETL/ELT systems, cloud data warehousing, data modeling, and data quality frameworks across Azure Databricks, AWS, and SQL Server.
 
 ---
 
-## 📊 Project Overview
+## 🎯 Core Skills
 
-I’ve worked on 14+ analytics projects spanning:
-- Customer churn and retention analysis
-- Banking and loan default analytics
-- Sales performance dashboards
-- BI workflows, cloud data concepts, and system-level analytics
-- Risk analysis and trend exploration
-- Test-to-production database migration workflows
+**Data Engineering**
+- ETL/ELT Pipeline Design & Implementation
+- Data Warehousing & Lakehouse Architectures
+- Data Modeling (Star Schema, Dimensional Design)
+- Medallion Architecture (Bronze/Silver/Gold)
+- Data Quality Frameworks & Governance
+
+**Technical Stack**
+- Languages: SQL, Python, PySpark
+- Cloud Platforms: Azure Databricks, AWS (S3, Glue, Athena, Redshift)
+- Tools & Technologies: Delta Lake, Git, Data Validation
 
 ---
 
-## 📁 Full Portfolio
+## 📊 Featured Projects
 
-For detailed project breakdowns, technical approaches, and dashboards:
+### Azure Databricks Retail Lakehouse
+Medallion Architecture processing 1M+ retail transaction records with automated incremental pipelines, Delta Lake transformations, and governance controls.
 
-🔗 **[View Complete Analytics Portfolio](https://github.com/JacobDaniel-82/portfolio.git)**
+🔗 **[GitHub](https://github.com/JacobDaniel-82/Azure-Databricks-Retail-Lakehouse)**
+
+### AWS Support Analytics Pipeline
+Multi-source ETL pipeline integrating customer support data from MySQL and operational logs into Amazon Redshift with automated transformation and validation workflows.
+
+🔗 **[GitHub](https://github.com/JacobDaniel-82/CarePlus-Support-Analytics-Pipeline)**
+
+### SQL Server Retail Analytics Warehouse
+Multi-layer data warehouse (Bronze/Silver/Gold) integrating CRM and ERP data across 60K+ sales records with comprehensive data quality framework and star schema design.
+
+🔗 **[GitHub](https://github.com/JacobDaniel-82/sql-data-warehouse-project)**
+---
+
+## 🌐 Portfolio & More
+
+**Full Portfolio:**
+Detailed project breakdowns, architecture diagrams, and technical documentation.
+
+🔗 **[Codebasics Portfolio](https://codebasics.io/portfolio/Jacob-Daniel-R)**
+
+**Additional Projects:**
+Beyond core data engineering, I've also built analytics and BI solutions across customer analytics, banking analytics, and exploratory data analysis projects.
+
+🔗 **[Project Archive](https://github.com/JacobDaniel-82/portfolio)**
 
 ---
 
 ## 🤝 Connect
+- **LinkedIn:** [linkedin.com/in/jacobdanielr](https://www.linkedin.com/in/jacobdanielr)
+- **GitHub:** [github.com/JacobDaniel-82](https://github.com/JacobDaniel-82)
+- **Email:** jacobdanielr82@gmail.com
 
-- **LinkedIn:** https://www.linkedin.com/in/jacobdanielr  
-- **Email:** jacobdanielr82@gmail.com  
-- **Open to:** Entry-level BI Analyst and Data Analyst roles
+**Open to:** Entry-Level Data Engineer opportunities
