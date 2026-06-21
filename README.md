@@ -45,7 +45,7 @@ Multi-layer data warehouse (Bronze/Silver/Gold) integrating CRM and ERP data acr
 **Personal Portfolio:**
 About me, skills overview, and featured project showcases.
 
-🔗 **[Codebasics Portfolio](https://codebasics.io/portfolio/Jacob-Daniel-R)**
+🔗 **[Personal Portfolio](https://codebasics.io/portfolio/Jacob-Daniel-R)**
 
 **All Projects:**
 Complete project repositories with code, documentation, and technical implementation details.
