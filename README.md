@@ -37,6 +37,7 @@ Multi-source ETL pipeline integrating customer support data from MySQL and opera
 Multi-layer data warehouse (Bronze/Silver/Gold) integrating CRM and ERP data across 60K+ sales records with comprehensive data quality framework and star schema design.
 
 🔗 **[GitHub](https://github.com/JacobDaniel-82/sql-data-warehouse-project)**
+
 ---
 
 ## 🌐 Portfolio & More
